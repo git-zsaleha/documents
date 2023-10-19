@@ -1,0 +1,7 @@
+<!doctype>
+<html>
+<head>Welcome to page</head>
+<body>
+
+</body>
+</html>
